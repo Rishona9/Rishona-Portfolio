@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+}
+.navbar {
+  margin-bottom: 100px;
+}
+header {
+  text-align: center;
+  background: url("images/Cleveland.png") no-repeat top center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+header {
+  line-height: 30px;
+}
+.tag {
+  background-color: #e2e2e2;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 30px auto;
+}
+footer {
+  margin-top: 70px;
+}
+footer a {
+  color: black;
+}
+footer a:hover {
+  color: blue;
+}
+footer .social-links a {
+  margin: 0 20px;
+  color: black;
+  font-size: 25px;
+}
+footer .social-links a:hover {
+  color: blue;
+}
