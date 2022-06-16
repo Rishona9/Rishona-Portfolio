@@ -1,18 +1,41 @@
 body {
   font-family: sans-serif;
 }
-.navbar {
-  margin-bottom: 100px;
-}
-header {
+
+.header-main {
   text-align: center;
-  background: url("images/Cleveland.png") no-repeat top center;
+  background: url("images/cleskyline.png") no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 200px;
   padding-bottom: 100px;
+  line-height: 30px;
 }
-header {
+.header-about {
+  text-align: center;
+  background: url("images/cvnp.png") no-repeat top center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 200px;
+  padding-bottom: 170px;
+  line-height: 30px;
+}
+.header-work {
+  text-align: center;
+  background: url("images/lake\ erie.png") no-repeat top center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 200px;
+  padding-bottom: 170px;
+  line-height: 30px;
+}
+.header-contact {
+  text-align: center;
+  background: url("images/lakeerierocks.png") no-repeat top center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 200px;
+  padding-bottom: 170px;
   line-height: 30px;
 }
 .tag {
