@@ -1,5 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
+  background-color: #e2e2e2;
 }
 
 .header-main {
@@ -46,11 +47,45 @@ body {
   display: table;
   margin: 30px auto;
 }
-.paragraph-about {
+.paragraph-about,
+.paragraph-home {
   margin-top: 40px;
   margin-left: 30px;
   margin-right: 30px;
   font-size: larger;
+}
+
+.skills-list {
+  font-size: larger;
+}
+.skills-box {
+  border: solid 2px black;
+  border-radius: 35px;
+  padding: 20px;
+}
+.skills,
+.certificates {
+  text-align: center;
+  margin-top: 70px;
+}
+.intro-certificate,
+.front-end-certificate,
+.responsive-certificate,
+.react-certificate {
+  max-width: 300px;
+  margin: 20px;
+  margin-top: 30px;
+}
+.contact-section a {
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}
+.contact-section a:hover {
+  color: blue;
+}
+i {
+  margin-top: 40px;
 }
 footer {
   margin-top: 70px;
