@@ -48,7 +48,8 @@ body {
   margin: 30px auto;
 }
 .paragraph-about,
-.paragraph-home {
+.paragraph-home,
+.paragraph-work {
   margin-top: 40px;
   margin-left: 30px;
   margin-right: 30px;
@@ -75,6 +76,36 @@ body {
   max-width: 300px;
   margin: 20px;
   margin-top: 30px;
+}
+.running-project,
+.weather-project,
+.react-weather-project,
+.dictionary-project {
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.weatherProject-link,
+.dictionaryProject-link {
+  text-decoration: none;
+  border: black solid 2px;
+  border-radius: 4px;
+  padding: 20px 40px;
+  background: white;
+  color: black;
+}
+.navigation-links {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+
+.navigation-links a {
+  margin: 20px;
+}
+.navigation-links a:hover {
+  color: white;
+  background: blue;
 }
 .contact-section a {
   text-decoration: none;
@@ -103,4 +134,12 @@ footer .social-links a {
 }
 footer .social-links a:hover {
   color: blue;
+}
+@media (max-width: 576px) {
+  .skills-box {
+    border: hidden;
+  }
+  .open-source {
+    font-size: smaller;
+  }
 }
