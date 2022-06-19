@@ -89,9 +89,9 @@ body {
 .dictionaryProject-link {
   text-decoration: none;
   border: black solid 2px;
-  border-radius: 4px;
+  border-radius: 10px;
   padding: 20px 40px;
-  background: white;
+  background: rgb(241, 237, 237);
   color: black;
 }
 .navigation-links {
