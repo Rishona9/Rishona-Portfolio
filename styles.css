@@ -5,7 +5,7 @@ body {
 
 .header-main {
   text-align: center;
-  background: url("images/cleskyline.png") no-repeat top center;
+  background: url("images/cleskyline\ \(1\).avif") no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 200px;
@@ -14,7 +14,7 @@ body {
 }
 .header-about {
   text-align: center;
-  background: url("images/cvnp.png") no-repeat top center;
+  background: url("images/cvnp.avif") no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 200px;
@@ -23,7 +23,7 @@ body {
 }
 .header-work {
   text-align: center;
-  background: url("images/lake\ erie.png") no-repeat top center;
+  background: url("images/lake\ erie.avif") no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 200px;
@@ -32,7 +32,7 @@ body {
 }
 .header-contact {
   text-align: center;
-  background: url("images/lakeerierocks.png") no-repeat top center;
+  background: url("images/lake\ erie.avif") no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 200px;
