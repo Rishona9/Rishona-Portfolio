@@ -29,6 +29,7 @@ body {
   padding-top: 200px;
   padding-bottom: 170px;
   line-height: 30px;
+  margin-bottom: 50px;
 }
 .header-contact {
   text-align: center;
@@ -86,7 +87,8 @@ body {
 }
 
 .weatherProject-link,
-.dictionaryProject-link {
+.dictionaryProject-link,
+.randomQuote-link {
   text-decoration: none;
   border: black solid 2px;
   border-radius: 10px;
