@@ -140,8 +140,6 @@ footer .social-links a:hover {
 @media (max-width: 576px) {
   .skills-box {
     border: hidden;
-    display: flex;
-    justify-content: center;
   }
   .open-source {
     font-size: smaller;
