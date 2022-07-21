@@ -81,14 +81,17 @@ body {
 .running-project,
 .weather-project,
 .react-weather-project,
-.dictionary-project {
+.dictionary-project,
+.randomQuote-project,
+.toDo-project {
   margin-top: 30px;
   font-size: 20px;
 }
 
 .weatherProject-link,
 .dictionaryProject-link,
-.randomQuote-link {
+.randomQuote-link,
+.toDo-link {
   text-decoration: none;
   border: black solid 2px;
   border-radius: 10px;
