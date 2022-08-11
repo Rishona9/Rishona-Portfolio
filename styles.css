@@ -83,7 +83,8 @@ body {
 .react-weather-project,
 .dictionary-project,
 .randomQuote-project,
-.toDo-project {
+.toDo-project,
+.studentData-project {
   margin-top: 30px;
   font-size: 20px;
 }
@@ -91,7 +92,8 @@ body {
 .weatherProject-link,
 .dictionaryProject-link,
 .randomQuote-link,
-.toDo-link {
+.toDo-link,
+.studentData-link {
   text-decoration: none;
   border: black solid 2px;
   border-radius: 10px;
